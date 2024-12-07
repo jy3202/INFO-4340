@@ -1,35 +1,14 @@
 #
 
-This template should help get you started developing with Vue 3 in Vite.
+This project was designed with Figma and programmed using Vue.js
 
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## View App
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Filter & Navigation Icons Source
-All filter and navigation icons are original illustrations by t_jam drawn on Figma.
+See (https://cornell-info4340-2024sp.github.io/t_jam-project/)
 
 ### Content Source
 [Prisoner Express Website](https://prisonerexpress.org/)
